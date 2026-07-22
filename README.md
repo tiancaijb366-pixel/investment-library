@@ -73,7 +73,7 @@ The system runs on [pi](https://github.com/team-headstart/pi) agent skills and c
 
 If you find these reports valuable:
 
-**→ [$1 ChatGPT Prompt Pack for Developers](https://github.com)** — Get the exact prompts and system instructions used to generate these reports, optimized for ChatGPT, Claude, and AI coding agents. Build your own investment research assistant in minutes.
+**→ [$1 ChatGPT Prompt Pack for Developers](https://prompt-pack-one.vercel.app)** — Get the exact prompts and system instructions used to generate these reports, optimized for ChatGPT, Claude, and AI coding agents. Build your own investment research assistant in minutes.
 
 **Donations (Crypto):**
 ```
